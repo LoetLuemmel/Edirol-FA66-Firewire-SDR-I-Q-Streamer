@@ -63,7 +63,7 @@ Im **"Configure I/O devices"** Dialog:
 | -------------- | ------------------------------------------------- |
 | **Device**     | `RTL-SDR Spectrum Server` oder `Other`            |
 | **Device string** | `rtl_tcp=127.0.0.1:1234`                      |
-| **Input rate** | `48000`                                           |
+| **Input rate** | `43100` `48000` `96000` `192000`                                           |
 | **Decimation** | `None`                                            |
 
 Dann auf **OK** klicken.
