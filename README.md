@@ -73,3 +73,11 @@ Im ersten Terminal solltest du dann sehen:
 ```
 GQRX connected! Streaming channels 3+4...
 ```
+
+## GQRX Settings
+
+<img width="343" height="484" alt="image" src="https://github.com/user-attachments/assets/9ccdcc76-b64e-473c-ac77-db1fc365d995" />
+
+## GQRX App
+
+<img width="1089" height="716" alt="image" src="https://github.com/user-attachments/assets/811e07c0-8c25-4a95-bb90-20c5411fe5fa" />
