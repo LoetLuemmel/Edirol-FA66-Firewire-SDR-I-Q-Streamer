@@ -81,3 +81,4 @@ GQRX connected! Streaming channels 3+4...
 ## GQRX App
 
 <img width="1089" height="716" alt="image" src="https://github.com/user-attachments/assets/811e07c0-8c25-4a95-bb90-20c5411fe5fa" />
+(Just 1m wire next to all computers gave no good reception environment)
